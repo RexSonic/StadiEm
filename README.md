@@ -10,9 +10,10 @@ A compiled version of https://github.com/MWisBest/StadiEm.
 - Vibrations are supported
 
 ### Installation
-1. Download the latest release from the [releases page](https://github.com/RexSonic/StadiEm/releases)
-2. Extract the zip file
-3. Run StadiEm.exe in administrator mode
+1. Download and install the latest [ViGEmBus driver](https://github.com/ViGEm/ViGEmBus/releases)
+2. Download the latest release from the [releases page](https://github.com/RexSonic/StadiEm/releases)
+3. Extract the zip file
+4. Run StadiEm.exe in administrator mode
 
 ### Credits
 - [MWisBest](https://github.com/MWisBest)
